@@ -1,11 +1,17 @@
-.column {
-  font-family: Arial;
-  background-color: red;
+.column{
   width: 33.333333333%;
   margin-bottom: 20px;
   float: right;
-  border: royalblue;
 }
+.column p{
+  border: solid rgb(42, 55, 94);
+  border-width: 3px;
+  box-sizing: border-box;
+  font-family: Arial;
+  background-color: red;
+  
+}
+
 img {
   display: block;
   width: 50%;
